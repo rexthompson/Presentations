@@ -11,21 +11,21 @@ A few notes:
 
 ## Presentations
 
-* [**Integrating MISR, MODIS, and CALIPSO Satellite Data with In Situ Measurements at Mount Bachelor to Determine Aerosol Plume Characteristics**](blob/master/2009_AGU.pdf)  
+* [**Integrating MISR, MODIS, and CALIPSO Satellite Data with In Situ Measurements at Mount Bachelor to Determine Aerosol Plume Characteristics**](2009_AGU.pdf)  
 Poster presented at the 2009 AGU Fall Meeting, San Francisco, CA, December 2009  
 
-* [**Making the Most of Your Data Acquisition and Handling System**](blob/master/2015_PNWIS.pdf)  
+* [**Making the Most of Your Data Acquisition and Handling System**](2015_PNWIS.pdf)  
 Presented at the 2014 A&WMA PNWIS Annual Conference, Spokane, WA, October 2014  
 
-* [**Continuous Emission/Opacity Monitoring System (CEMS/COMS) and Data Acquisition and Handling System (DAHS) Audits – Experiences and Findings**](blob/master/2015_PNWIS.pdf)  
+* [**Continuous Emission/Opacity Monitoring System (CEMS/COMS) and Data Acquisition and Handling System (DAHS) Audits – Experiences and Findings**](2015_PNWIS.pdf)  
 Presented at the 2015 A&WMA PNWIS Annual Conference, Stevenson, WA, November 2015  
 
 ## Papers
 
-* [**Classify Birds According to their Species**](blob/master/2017_06_DATA558_Final_Paper.pdf)  
+* [**Classify Birds According to their Species**](2017_06_DATA558_Final_Paper.pdf)  
 Final Project for DATA 558 (Statistical Machine Learning)  
 University of Washington, Spring 2017
-* [**Amazon Redshift Timing Exercises**](blob/master/2017_12_DATA516_Final_Project_PartI.pdf)  
+* [**Amazon Redshift Timing Exercises**](2017_12_DATA516_Final_Project_PartI.pdf)  
 Final Project Part I for DATA 516 (Scalable Data Systems & Algorithms)  
 University of Washington, Fall 2017
 * [**Apache Spark Timing Exercises on AWS EMR**](blob/master/2017_12_DATA516_Final_Project_PartII.pdf)  
