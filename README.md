@@ -1,11 +1,11 @@
 # Presentations and Papers
 
-This repository contains publications I have created over the years.
+This repository contains publications I have created over the years. Browse the files above or click the links below to view the documents. Please note that some of the files take some time to load. You may be better off downloading them, rather than waiting for the viewer in GitHub.
 
 ## Presentations
 
 * R. Thompson, D. Suess, S. Gregory, "Continuous Emission/Opacity Monitoring System (CEMS/COMS) and Data Acquisition and Handling System (DAHS) Audits – Experiences and Findings," 2015 A&WMA PNWIS Conference, November 2015.
-(link)
+(link)[link](2015 PNWIS THOMPSON - 2015-11-05.pdf)
 
 * R. Thompson, D. Suess, S. Gregory, K. Tran, E. Clardy, “Making the Most of Your Data Acquisition and Handling System,” 2014 A&WMA PNWIS Conference, October 2014.
 (link)
